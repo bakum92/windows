@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 13 Dec 2018 22:28:58 at http://windows-aktiv.my1.ru/load/aktivator_windows_10/re_loader_activator_10/1-1-0-84 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "uk, en, *" http://windows-aktiv.my1.ru/load/aktivator_windows_10/re_loader_activator_10/1-1-0-84 -O1 "D:\1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:29:02	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): js.advideo.ru/aro.js
+22:30:29	Warning: 	file not stored in cache due to bogus state (broken size, expected 817486 got 257600): windows-aktiv.my1.ru/Verh.png
+22:30:30	Error: 	"Not Found" (404) at link windows-aktiv.my1.ru/poisk/bgcolor.js (from windows-aktiv.my1.ru/load/aktivator_windows_10/re_loader_activator_10/1-1-0-84)
+22:30:30	Error: 	"Forbidden" (403) at link translate.google.com/translate_a/element.js?cb=googleTranslateElementInit (from windows-aktiv.my1.ru/load/aktivator_windows_10/re_loader_activator_10/1-1-0-84)
+22:30:30	Warning: 	Retry after error -4 (Connect Error) at link https://mc.yandex.ru/metrika/watch.js (from windows-aktiv.my1.ru/load/aktivator_windows_10/re_loader_activator_10/1-1-0-84)
+22:30:30	Warning: 	Retry after error -5 (Unable to get server's address: «апрошенное им€ верно, но данные запрошенного ти) at link https://pp.userapi.com/c622928/v622928975/5214b/CJvRdddZX_Y.jpg?ava=1 (from windows-aktiv.my1.ru/load/aktivator_windows_10/re_loader_activator_10/1-1-0-84)
+22:30:45	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://pp.userapi.com/c847217/v847217204/1118b7/GOqyQmnEwx8.jpg?ava=1 (from windows-aktiv.my1.ru/load/aktivator_windows_10/re_loader_activator_10/1-1-0-84)
+22:30:59	Warning: 	Retry after error -4 (Incorrect length (257600 Bytes, 817486 expected)) at link windows-aktiv.my1.ru/Verh.png (from windows-aktiv.my1.ru/_st/my.css)
+22:30:59	Warning: 	Retry after error -4 (Connect Error) at link https://mc.yandex.ru/metrika/watch.js (from windows-aktiv.my1.ru/load/aktivator_windows_10/re_loader_activator_10/1-1-0-84)
+22:30:59	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://pp.userapi.com/c622928/v622928975/5214b/CJvRdddZX_Y.jpg?ava=1 (from windows-aktiv.my1.ru/load/aktivator_windows_10/re_loader_activator_10/1-1-0-84)
+22:31:14	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://pp.userapi.com/c847217/v847217204/1118b7/GOqyQmnEwx8.jpg?ava=1 (from windows-aktiv.my1.ru/load/aktivator_windows_10/re_loader_activator_10/1-1-0-84)
+22:31:30	Warning: 	file not stored in cache due to bogus state (broken size, expected 817486 got 359800): windows-aktiv.my1.ru/Verh.png
+22:31:30	Warning: 	Retry after error -4 (Incorrect length (359800 Bytes, 817486 expected)) at link windows-aktiv.my1.ru/Verh.png (from windows-aktiv.my1.ru/_st/my.css)
+22:31:30	Error: 	"Connect Error" (-4) after 2 retries at link https://mc.yandex.ru/metrika/watch.js (from windows-aktiv.my1.ru/load/aktivator_windows_10/re_loader_activator_10/1-1-0-84)
+22:31:30	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://pp.userapi.com/c622928/v622928975/5214b/CJvRdddZX_Y.jpg?ava=1 (from windows-aktiv.my1.ru/load/aktivator_windows_10/re_loader_activator_10/1-1-0-84)
+22:31:30	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://pp.userapi.com/c847217/v847217204/1118b7/GOqyQmnEwx8.jpg?ava=1 (from windows-aktiv.my1.ru/load/aktivator_windows_10/re_loader_activator_10/1-1-0-84)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 50 seconds : 118 links scanned, 104 files written (2075065 bytes overall) [1728882 bytes received at 10169 bytes/sec], 556390 bytes transferred using HTTP compression in 18 files, ratio 29%, 3.8 requests per connection
+(5 errors, 11 warnings, 0 messages)

@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.windows-aktiv.my1.ru	TRUE	/	FALSE	1999999999	5windows-aktivld	VAAIwRJc
+.windows-aktiv.my1.ru	TRUE	/	FALSE	1999999999	5windows-aktivuzll	1544732937
+my1.ru	TRUE	/	FALSE	1999999999	ucvid	vy2s73Sgjj
+master-push.net	TRUE	/	FALSE	1999999999	userid	911b047b-1e14-408e-81b3-4b4861da06c7
+.google.com	TRUE	/	FALSE	1999999999	NID	150=nxorvAwrD9y6MCU4jlc_HcrwsmNj6txVhnmvE4N3dDv963quCINWdAOS3ImKUHVkQFpgn8GzBDxCu8XliYT6BGV94A9Lwov5VGpZcUywrPXnlwVRuJGlOMkpF86O1m5Sx2Nf-6eXsDC7MjSvOfamBZk9IBBInRbwrpoTpTBTjP4
+
